@@ -1,0 +1,17 @@
+{
+    "name": "marcosmarcolin/composer-hello-world",
+    "description": "Pacote de exemplo para o treinamento de Composer.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Marcosmarcolin\\ComposerHelloWorld\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Marcos Marcolin",
+            "email": "marcos@ixcsoft.com.br"
+        }
+    ],
+    "require": {}
+}
