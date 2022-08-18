@@ -3,7 +3,7 @@
 namespace Marcosmarcolin\ComposerHelloWorld;
 class Runner
 {
-    public static function run(){
+    public static function running(){
         echo 'Hello World Composer!';
     }
 }
